@@ -3,6 +3,7 @@
 # What is this?
 
 A discord bot that pings you nonstop.
+It also crashes discord servers.
 
 # How do I use this?
 
