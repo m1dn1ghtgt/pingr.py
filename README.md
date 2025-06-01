@@ -10,4 +10,4 @@ A discord bot that pings you nonstop.
 2. Download [it](https://github.com/m1dn1ghtgt/pingr.py/blob/main/pingr.py) and open it with VS Code. (or any other code editor, I just prefer VS Code)
 3. Switch the values to your choice.
 4. Run the bot.
-5. Now you can burst out your ears and get a billion notifications!
+5. Now you can burst out your ears and get a billion notifications! (unless you have do not disturb on, but you'll still get a billion notifications)
